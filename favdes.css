@@ -1,0 +1,30 @@
+.title{
+    list-style-type:circle;
+    border-bottom: 1px solid;
+    width: 64%;
+    margin-bottom: 0.5%;
+}
+#home{
+    font-size: 1.5rem;
+    margin-left:  3%; 
+    margin-top: 2%;
+}
+
+.title span{
+    display: inline-block;
+    width: 600px;
+    
+}
+.title a{
+    display: inline-block;
+    width: 300px;
+}
+body{
+    background-color: beige;
+}
+
+.radio:hover{
+    color: rgb(95, 86, 86);
+    background-color: rgba(231, 166, 246, 0.936);
+    
+}

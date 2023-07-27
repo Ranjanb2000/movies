@@ -1,0 +1,27 @@
+body{
+    padding-left: 5%;
+    background-color: rgb(255, 250, 243);
+}
+img{
+    margin-left: 30%;
+    height: 400px;
+    width: 500px;
+    margin-bottom: 5%;
+    background-size: contain;
+}
+#para{
+    width: 200px !important;
+    border: 1px solid;
+    font-size: 3px !important;
+}
+.info{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: 1px;
+}
+#home{
+    font-size: larger;
+    padding-top: 5%;
+    margin-top: 10%;
+}
